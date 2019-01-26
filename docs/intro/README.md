@@ -1,7 +1,7 @@
 # Intro To Project
 
 ## What
-A system that allows people without expertise ,beyond "average" computer usage, a way to securely use cryptocurrency.
+A system that allows people without expertise, beyond "average" computer usage, a way to securely use cryptocurrency.
 
 ## Why
 End user security is vital for a decentralized system. This project will make several much needed improvements in this area.
