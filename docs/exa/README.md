@@ -40,7 +40,7 @@ They will follow these steps:
 Now that the user has finished setting up their wallet. They are free to use it.
 
 ### Receive Crypto
-Due to the nature of private keys and decentralized systems, the best way to receive money would be to give the sender an extended public key and test until they feel confident in the key working. This communication should happen from two separate devices.
+This is  dependent on the sender of crypto implementing two channels of communication to confirm receiving addresses. The user would check one channel on the desktop and another on their phone.
 
 ### Send Crypto
 The Process for sending crypto would go as follows:
