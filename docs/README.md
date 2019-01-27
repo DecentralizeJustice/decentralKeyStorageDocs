@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: images/Multisig-Crypto.png
+heroImage: /spec/images/Multisig-Crypto.png
 
 actionText: Get Started →
 actionLink: /intro/
