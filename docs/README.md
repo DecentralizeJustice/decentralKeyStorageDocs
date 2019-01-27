@@ -1,8 +1,7 @@
 ---
 home: true
-heroImage: /spec/images/Multisig-Crypto.png
 
-actionText: Get Started →
+actionText: Explore →
 actionLink: /intro/
 footer: MIT Licensed | Copyright © 2018-present Decentralize Justice
 ---
