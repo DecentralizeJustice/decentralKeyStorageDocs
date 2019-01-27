@@ -32,7 +32,7 @@ They will follow these steps:
 1. Enter metal menmonic
 2. Record web passphrase on menmonic
 
-## Distribute recorded Info
+## Distribute Recorded Info
 1. Take picture of web passphrase documentation and email/ distribute as first
 2. Distribute documentation as they see fit.
 
