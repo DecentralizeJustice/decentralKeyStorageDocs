@@ -1,6 +1,7 @@
 module.exports = {
   title: 'MC Design Specs',
   description: 'A Collaborative Endeavour',
+  base: '/spec/',
   head: [
     ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `favicon.ico` }]
   ],
