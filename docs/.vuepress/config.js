@@ -2,7 +2,7 @@ module.exports = {
   title: 'MC Design Specs',
   description: 'A Collaborative Endeavour',
   head: [
-    ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `./favicon.ico` }]
+    ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `favicon.ico` }]
   ],
   themeConfig: {
     nav: [
