@@ -22,9 +22,8 @@ They will follow these steps:
 1. Enter Usage Key
 2. Setup and Sync Hardware Wallet
 3. Engrave and backup hardware wallet menmonic
-4. Record web passphrase on documentation
-5. Enter metal card menmonic
-6. Record web passphrase on documentation
+4. Enter metal card menmonic
+5. Record web passphrase on documentation
 
 ## Mobile Portion
 The user will then move to the mobile portion of the Setup
