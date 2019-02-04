@@ -30,6 +30,7 @@ The user will then move to the mobile portion of the Setup
 They will follow these steps:
 1. Enter metal menmonic
 2. Record web passphrase on menmonic
+3. Sync phone with desktop
 
 ## Distribute Recorded Info
 1. Take picture of web passphrase documentation and email/ distribute as first
