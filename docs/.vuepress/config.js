@@ -13,7 +13,9 @@ module.exports = {
     ],
     sidebar: [
       '/intro/',
-      '/prepurchase/'
+      '/prepurchase/',
+      '/purchase/',
+      '/hardware/'
     ]
   }
 }

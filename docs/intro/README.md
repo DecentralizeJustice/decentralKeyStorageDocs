@@ -1,4 +1,4 @@
-# Intro To Project
+# Intro 
 
 ## What
 A system that allows people without expertise, beyond "average" computer usage, a way to securely use cryptocurrency.

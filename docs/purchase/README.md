@@ -1,4 +1,4 @@
-# Pre-Purchase
+# Purchase
 ## Risk
 ## Privacy
 The main risk that users face in the pre-purchase phase of Multisig Crypto is their privacy.
