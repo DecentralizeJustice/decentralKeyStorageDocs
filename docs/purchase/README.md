@@ -1,9 +1,10 @@
 # Purchase
 ## Risk
-## Privacy
-The main risk that users face in the pre-purchase phase of Multisig Crypto is their privacy.
-The less information that is reveled about a user during the pre-purchase phase, the more secure
-their experience will be with cryptocurrency and MC specifically. Any information leaked during the pre-purchase phase can lead to attacks later in the users use of MC.
+### General Privacy
+The less information that is reveled about a user during the purchase phase, the more secure
+their experience will be with cryptocurrency and MC specifically. Any information leaked during the purchase phase can lead to attacks later in the users use of MC. This attacks can also come from MC team themselves, if we suffer from a hack or state level actor takeover. These types of attacks are only useful if the takeover or hack isn't publicly known. Keeping all communication public limits the severity of these type of attacks.
+### Targeted Key Leak
+Since we engrave some of the keys for the user ,if we were to record identifying information such as email or ip address this could lead to a targeted attack where an hacker targets a MC user.
 ## Examples
 ### Email Phishing
 Email phishing is when an attacker acquires the email of users of a crypto service. The attacker then
@@ -12,9 +13,19 @@ sends emails to the users, often posing as  support staff. The attacker might wa
 [Myether Wallet Email Phishing](https://twitter.com/myetherwallet/status/1092498871157051392)
 
 [Trezor Wallet Email Phishing](https://twitter.com/trezor/status/797170025161510914)
+### Targeted Key Leak
+An attacker could use the users ip address to target them specifically and escalate an attack using the keys that we made for that user. A person who stores the users keys for them, if the users decides, could also use these keys to spend the users funds if they have the right number of keys.
 
 ## Plan to Address Risks
 ### No Email Communication
-We will not use email to communication with any users at all. We do not offer email signup via blogs, support via email, or any other form of email usage.
+We will not use email to communication with any users at all. We do not offer email communication anytime during the buying process.
+### Web Page Communication
+We will communicate through the webpage, and they will get help with their order via this main webpage.
+We will also route all identifying information via proxy using end to end encryption. This communication methods hides ip and other identifying information but not completely.
+### Lightning payments
+In order to hide the main payment address, we require [lightning payments](https://en.wikipedia.org/wiki/Lightning_Network) and other services like [submarine swaps](https://submarineswaps.org/).
 ## Compromises
-Although social media is a large attack surface and generally insecure on the privacy aspect MC will still use it. This is due to the fact that social medial is the main way that people hear about products and form community. MC will have a media account on all the major platforms. If we did not have a presence on these platforms, attackers would have an easier time masquerading as MC also.
+### Logistical Constraints
+Given the nature of shipping items in 2019, we will have to have the users address. We will need this information also for tax purposes, since the IRS is no one to mess [with](https://www.google.com/search?q=al+capone+irs&oq=al+capone+irs&aqs=chrome..69i57j69i64l2.2764j0j7&sourceid=chrome&ie=UTF-8).
+### Internet Constraints
+Due to the nature of how the internet works currently, by visiting my website you will reveal some information by visiting the website. The information that would leak would be your ip address . This can be avoided by using a vpn or other service. 

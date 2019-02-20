@@ -1,6 +1,6 @@
 # Pre-Purchase
 ## Risk
-## Privacy
+### Privacy
 The main risk that users face in the pre-purchase phase of Multisig Crypto is their privacy.
 The less information that is reveled about a user during the pre-purchase phase, the more secure
 their experience will be with cryptocurrency and MC specifically. Any information leaked during the pre-purchase phase can lead to attacks later in the users use of MC.
