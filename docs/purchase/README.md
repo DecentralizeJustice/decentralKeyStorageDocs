@@ -23,9 +23,9 @@ We will not use email to communication with any users at all. We do not offer em
 We will communicate through the webpage, and they will get help with their order via this main webpage.
 We will also route all identifying information via proxy using end to end encryption. This communication methods hides ip and other identifying information but not completely.
 ### Lightning payments
-In order to hide the main payment address, we require [lightning payments](https://en.wikipedia.org/wiki/Lightning_Network) and other services like [submarine swaps](https://submarineswaps.org/).
+In order to hide the main payment address, we require [lightning payments](https://en.wikipedia.org/wiki/Lightning_Network) or other services like [submarine swaps](https://submarineswaps.org/).
 ## Compromises
 ### Logistical Constraints
-Given the nature of shipping items in 2019, we will have to have the users address. 
+Given the nature of shipping items in 2019, we will have to have the users address.
 ### Internet Constraints
 Due to the nature of how the internet works currently, by visiting my website you will reveal some information by visiting the website. The information that would leak would be your ip address . This can be avoided by using a vpn or other service.

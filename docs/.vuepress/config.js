@@ -16,8 +16,10 @@ module.exports = {
       '/prepurchase/',
       '/purchase/',
       '/hardware/',
+      '/support/',
       '/cautions/',
       '/behindthescene/'
+
     ]
   }
 }
