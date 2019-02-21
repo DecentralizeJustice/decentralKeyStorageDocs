@@ -26,6 +26,6 @@ We will also route all identifying information via proxy using end to end encryp
 In order to hide the main payment address, we require [lightning payments](https://en.wikipedia.org/wiki/Lightning_Network) and other services like [submarine swaps](https://submarineswaps.org/).
 ## Compromises
 ### Logistical Constraints
-Given the nature of shipping items in 2019, we will have to have the users address. We will need this information also for tax purposes, since the IRS is no one to mess [with](https://www.google.com/search?q=al+capone+irs&oq=al+capone+irs&aqs=chrome..69i57j69i64l2.2764j0j7&sourceid=chrome&ie=UTF-8).
+Given the nature of shipping items in 2019, we will have to have the users address. 
 ### Internet Constraints
-Due to the nature of how the internet works currently, by visiting my website you will reveal some information by visiting the website. The information that would leak would be your ip address . This can be avoided by using a vpn or other service. 
+Due to the nature of how the internet works currently, by visiting my website you will reveal some information by visiting the website. The information that would leak would be your ip address . This can be avoided by using a vpn or other service.
