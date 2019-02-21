@@ -11,3 +11,9 @@ The kit will include 4 metal cards each engraved with 12  [bip39](https://github
 For Example:
 Card 1 and 2:
 Card 3 and 4:
+
+## Record Web wallet
+Sheets of formatted paper used to record web passphrases
+
+## Usage Key  
+A blinded qr code that allows you to use our services anonymously. 

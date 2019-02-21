@@ -16,7 +16,8 @@ module.exports = {
       '/prepurchase/',
       '/purchase/',
       '/hardware/',
-      '/cautions/'
+      '/cautions/',
+      '/behindthescene/'
     ]
   }
 }
