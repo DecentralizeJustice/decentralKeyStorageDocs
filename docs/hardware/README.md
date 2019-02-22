@@ -16,4 +16,4 @@ Card 3 and 4:
 Sheets of formatted paper used to record web passphrases
 
 ## Usage Key  
-A [blinded](https://en.wikipedia.org/wiki/Blind_signature) qr code that allows you to use our services anonymously. This usage key can be verified via the shopping website where the customer initially bought the MC kit. 
+A blinded qr code that allows you to use our services anonymously. 
