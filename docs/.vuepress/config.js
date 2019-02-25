@@ -8,7 +8,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Intro', link: '/intro/' },
-      { text: 'Github', link: 'https://github.com/DecentralizeJustice/MultisigCryptoDocumentation' },
+      { text: 'Github', link: 'https://github.com/DecentralizeJustice/frequentWalletDocs' },
       { text: 'Reddit', link: 'https://www.reddit.com/r/DecentralizeJustice' }
     ],
     sidebar: [
