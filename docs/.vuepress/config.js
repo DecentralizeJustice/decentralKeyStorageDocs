@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Frequent Wallet Documentation',
-  description: 'A Collaborative Endeavour',
+  description: 'A Plan for the Future',
   base: '/docs/',
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: `favicon.ico` }]
