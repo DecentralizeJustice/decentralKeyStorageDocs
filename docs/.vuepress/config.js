@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MC Documentation',
+  title: 'Frequent Wallet Documentation',
   description: 'A Collaborative Endeavour',
   base: '/docs/',
   head: [
