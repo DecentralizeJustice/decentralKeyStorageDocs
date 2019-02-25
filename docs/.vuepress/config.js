@@ -12,14 +12,7 @@ module.exports = {
       { text: 'Reddit', link: 'https://www.reddit.com/r/DecentralizeJustice' }
     ],
     sidebar: [
-      '/intro/',
-      '/prepurchase/',
-      '/purchase/',
-      '/hardware/',
-      '/support/',
-      '/cautions/',
-      '/behindthescene/'
-
+      '/intro/'
     ]
   }
 }
