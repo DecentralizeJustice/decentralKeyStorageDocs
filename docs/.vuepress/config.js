@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Decentral Key Storage Documentation',
+  title: 'Decentral Key Storage Docs',
   description: 'A Plan for the Future',
   base: '/docs/',
   head: [
@@ -12,7 +12,8 @@ module.exports = {
       { text: 'Reddit', link: 'https://www.reddit.com/r/DecentralizeJustice' }
     ],
     sidebar: [
-      '/intro/'
+      '/intro/',
+      '/history/'
     ]
   }
 }
