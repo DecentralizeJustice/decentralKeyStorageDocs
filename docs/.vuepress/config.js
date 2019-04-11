@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Frequent Wallet Documentation',
+  title: 'Decentral Key Storage Documentation',
   description: 'A Plan for the Future',
   base: '/docs/',
   head: [
@@ -8,7 +8,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Intro', link: '/intro/' },
-      { text: 'Github', link: 'https://github.com/DecentralizeJustice/frequentWalletDocs' },
+      { text: 'Github', link: 'https://github.com/DecentralizeJustice/decentralKeyStorageDocs' },
       { text: 'Reddit', link: 'https://www.reddit.com/r/DecentralizeJustice' }
     ],
     sidebar: [
