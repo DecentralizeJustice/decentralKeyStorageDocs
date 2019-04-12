@@ -6,3 +6,9 @@ the usability cost of using an hardware wallet. I thought a while about the issu
 I could have one card that acted as a main storage key and add a passphrase to this card for each wallet that I used. Now instead of having a draw filled with paper with my keys scribbled on them, I could have one main card and just produce passphrase when I needed them. The passphrase could be stored by whatever means I wanted to, such as being online in my email or irl on metal, if I wanted to. This base idea lead me to learn more about bip 39.
 
 ## Bip 39
+Bip 39 is Unanimously Discourage for implementation, but seems to be the default method for a lot of wallets in the crypto space, and is often recommend way to store mnemonic seeds. This project seeks to fix some of these issues along with providing another storage solution for crypto.  
+Several issues were raised in the creation of bip 39 that still exist:
+* [No Versioning](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39)
+* [Requires Wordlist](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39)
+* [Ambiguous Entropy Requirements]( [Requires Wordlist](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39))
+* [Low Key Stretching Rounds](https://github.com/bitcoin/bips/pull/17#issuecomment-34442152)
