@@ -10,5 +10,16 @@ Bip 39 is Unanimously Discourage for implementation, but seems to be the default
 Several issues were raised in the creation of bip 39 that still exist:
 * [No Versioning](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39)
 * [Requires Wordlist](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39)
-* [Ambiguous Entropy Requirements]( [Requires Wordlist](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39))
-* [Low Key Stretching Rounds](https://github.com/bitcoin/bips/pull/17#issuecomment-34442152)
+* [Ambiguous Entropy Requirements](https://github.com/bitcoin/bips/wiki/Comments:BIP-0039#electrum-criticism-of-bip39)
+* [Low and Static Key Stretching Rounds](https://github.com/bitcoin/bips/pull/17)
+
+Electrum has its own [derivation](http://docs.electrum.org/en/latest/faq.html) scheme for seeds. This implementation has not gained wide support in the crypto community and I do not see a easy way to make it backwards compatible with bip39 seeds in its current implementation.
+
+# Solutions
+## Versioning & Key Stretching
+We can solve the versioning and Key stretching issues using Pieter Wuille's key grinding [algorithm](https://bitcointalk.org/index.php?topic=102349.0)
+
+## Entropy
+Since this is not a standard we can simply implement it with a secure and tested CPRNG.
+
+## Wordlist
